@@ -7,7 +7,7 @@ with the initial direction set to RIGHT.
 With each iteration of the game loop, the x or y coordinates of the image are changed by 5 pixels,
 and the direction of the image is changed when the image gets too close to the corners of the screen. 
 '''
-
+print('it works')
 
 import pygame, sys
 from pygame.locals import *
